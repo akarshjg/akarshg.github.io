@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Akarsh Galagali
-  location: Bangalore
+  copyright: Akarsh Galagali (c)
+  location: Location
   social: Around the Web
   credits: Credits
 
@@ -71,14 +71,14 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-      
-sass:
-style: nested
 
-exclude:    
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-  - Rakefile
+# sass:
+# style: nested
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - LICENSE
+#   - README.md
+#   - CNAME
+#   - Rakefile
