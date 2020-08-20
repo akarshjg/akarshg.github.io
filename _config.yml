@@ -71,3 +71,14 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+      
+sass:
+style: nested
+
+exclude:    
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - Rakefile
